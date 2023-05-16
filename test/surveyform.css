@@ -1,0 +1,33 @@
+body {
+    width: 800px;
+    height: 100vh;
+    margin:  1em auto;
+    background-color: grey;
+    color: white; 
+
+  }
+  form {
+    padding: 30px;
+    margin: 40px 40px;
+    justify-content:center;
+    color:grey;
+  }
+  label {
+    display:inline-block;
+    margin: 0.5rem 0;
+  }
+  
+  button {
+    display:block;
+    width: 60px;
+    height: 2em;
+    font-size: 1rem;
+    background-color:grey;
+    color:white;
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+  }
+  
+  
